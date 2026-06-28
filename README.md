@@ -17,11 +17,11 @@ and using Machine Learning to predict whether a game will be a hit.
 - **Features:** Title, Console, Genre, Publisher, Developer, Critic Score, Regional Sales
 
 ## Methodology
-1. **Data Cleaning** — Removed irrelevant columns, handled missing values, extracted year
-2. **Exploratory Data Analysis** — Visualized sales trends, genre performance, regional breakdown
-3. **Feature Engineering** — Defined hit threshold, balanced dataset, encoded categorical variables
-4. **ML Model Building** — Trained and compared Logistic Regression, Random Forest, Gradient Boosting
-5. **Prediction** — Applied best model to predict GTA VI's commercial success
+1. **Data Cleaning** - Removed irrelevant columns, handled missing values, extracted year
+2. **Exploratory Data Analysis** - Visualized sales trends, genre performance, regional breakdown
+3. **Feature Engineering** - Defined hit threshold, balanced dataset, encoded categorical variables
+4. **ML Model Building** - Trained and compared Logistic Regression, Random Forest, Gradient Boosting
+5. **Prediction** - Applied best model to predict GTA VI's commercial success
 
 ## Key Findings
 - 🏆 **PS2** is the greatest console of all time by total game sales
@@ -46,9 +46,9 @@ This aligns with analyst projections of 35-45 million copies
 and over $3 billion in revenue in year one. (Forbes, GameSpot)
 
 ## Tools & Technologies
-- **Python** — pandas, NumPy, matplotlib, seaborn, scikit-learn
-- **Google Colab** — Development environment
-- **GitHub** — Version control
+- **Python** - pandas, NumPy, matplotlib, seaborn, scikit-learn
+- **Google Colab** - Development environment
+- **GitHub** - Version control
 
 ## How to Run
 1. Clone this repository
